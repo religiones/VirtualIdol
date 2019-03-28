@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="virtualidol@localhost" uuid="b603adf1-7f57-4fa7-bd6a-e1ac273feaa7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>virtualidol</user-name>
+    </data-source>
+  </component>
+</project>
