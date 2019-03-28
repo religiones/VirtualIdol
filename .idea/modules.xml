@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VirtualIdol.iml" filepath="$PROJECT_DIR$/VirtualIdol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/virtualidol.iml" filepath="$PROJECT_DIR$/virtualidol.iml" />
     </modules>
   </component>
 </project>

@@ -1,14 +1,14 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="VirtualIdol:war">
+  <artifact type="war" name="virtualidol:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <module>VirtualIdol</module>
+        <module>virtualidol</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="archive" name="VirtualIdol.war">
-      <element id="artifact" artifact-name="VirtualIdol:war exploded" />
+      <element id="artifact" artifact-name="virtualidol:war exploded" />
     </root>
   </artifact>
 </component>
